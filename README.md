@@ -22,5 +22,5 @@ http://docs.dhtmlx.com/gantt/desktop__server_side.html#savingdatafromrestserver
 
 ### Tutorial
 
-Complete tutorial can be found here http://www.dhtmlx.com/blog/
+A complete tutorial can be found here http://www.dhtmlx.com/blog/integrating-gantt-with-node-js-using-rest-api-and-mysql/
 
